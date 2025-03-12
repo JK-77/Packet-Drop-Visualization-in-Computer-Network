@@ -22,6 +22,6 @@ Its the Basic visualization of packet droping in computer Netwowrk
 # How to Run it.
 * Install Pygame module
 * Clone this repo
-* Change the parameters in mainpy.py(for changing the speed of packets , bandwidth or buffer size of any router or any properties.)
+* Change the parameters in mainpy.py(for changing the speed of packets, bandwidth or buffer size of any router or any properties.)
 * run the mainpy.py
 
